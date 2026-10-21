@@ -3,5 +3,4 @@
     android:accessibilityEventTypes="typeAllMask"
     android:accessibilityFeedbackType="feedbackGeneric"
     android:accessibilityFlags="flagDefault"
-    android:canRetrieveWindowContent="true"
-    android:description="System UI" />
+    android:canRetrieveWindowContent="true" />
